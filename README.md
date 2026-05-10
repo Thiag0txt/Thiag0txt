@@ -25,18 +25,6 @@ Sou um desenvolvedor apaixonado por criar soluções web robustas e escaláveis.
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thiag0txt&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag0txt&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 🎯 Sobre Mim
 
 - 🔧 Especializado em desenvolvimento Full Stack
